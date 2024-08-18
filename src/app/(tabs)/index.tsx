@@ -1,6 +1,6 @@
 import {Text} from 'react-native';
-export default function About() {
+export default function FeedScreen() {
     return(
-        <Text>About us</Text>
+        <Text className='text-3xl'>About us</Text>
     )
 }
